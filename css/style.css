@@ -1,0 +1,138 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+   
+}
+.titu
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    margin-top: 25px;
+    width: 900px;
+    margin-left: 280px;
+    padding: 5px;
+    border-radius: 20px ;
+   
+}
+.titulo
+{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h3s
+{
+    text-align: center;
+}
+.container1
+{
+     background-color: rgb(226, 232, 238);
+}
+ 
+
+.btn
+{
+ margin-left: 9px;
+}
+
+.enca
+{
+
+margin-left: 320px;
+margin-top: 20px;
+
+}
+.dat
+{
+
+margin-left:400px;
+margin-top: -600px;
+
+
+}
+
+ 
+ 
+header
+{
+    width: 100%;
+    
+  
+}
+header h1
+{
+    color: white ;
+    height: 0px;
+    margin-left: 250px;
+    font-size: 30px;
+  
+    
+}
+ 
+ 
+.menu ul
+{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    margin: 0px;
+}
+.menu ul li
+{
+    list-style: none;
+    border-right: 1px solid white;
+}
+
+.menu ul li a
+{
+    display: block;
+    margin:  5px 5px;
+    color:  white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.menu ul li a:hover
+{
+    color: rgb(0, 181, 241);
+}
+
+h2
+{
+    text-align: center;
+  
+}
+ 
+h5
+{
+    text-align: center;
+}
+.list
+{
+    margin-top: 20px;
+}
+h3
+{
+    margin-left: 17px;
+     color: royalblue;
+     font-family: sans-serif;
+}
+
+.centro
+{
+   margin-top: 35px;  
+ 
+}
+.activo
+{
+    display: none;
+    
+}
+.center
+{
+
+margin-left: 250px;
+
+}
+ 
